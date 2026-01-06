@@ -1,6 +1,6 @@
 import librosa
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 audio_path = "D:\\farooq\\file_example_WAV_1MG.wav"  # put any .wav file here
